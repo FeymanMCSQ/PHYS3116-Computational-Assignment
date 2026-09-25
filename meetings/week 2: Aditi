@@ -1,14 +1,14 @@
 Aditi Bishwa, week 2, 25/08/2026
 
 
-Part II:  Metallicity and Photometry
+Part II:  Metallicity and Photometry 
 
 Key to columns:
 ID =  Cluster identification
 [Fe/H] = Metallicity [Fe/H]
 wt = Weight of mean metallicity; essentially the number of independent [Fe/H]
 	measurements averaged together.  See bibliography for full description
-E(B-V) = Foreground reddening
+E(B-V) = Foreground reddening 
 V_HB = V magnitude level of the horizontal branch (or RR Lyraes)
 (m-M)V = Apparent visual distance modulus
 V_t  = Integrated V magnitude of the cluster
