@@ -49,7 +49,16 @@ Aditi Bishwa:
   -note which clusters feel unusual for next meeting
   -commit both code and brief documentation on github
 
+Safi Ullah:
+-Identify the columns containig the relevant dynamic rotation information
+
+- Investigate how the supplied data can be used to compare each of the globular cluster information with the
+  bulk cluster information
+  -Start the python code for the dynamics rotation analysis
+  -Note any potentially unusual clusters for the next meeting
+- commit both code and brief documentaton to Github
+
 ## Next Meeting
 
-Date:
-Time:
+Date: Friday 2 October 2026
+Time: 3:00-4:00
