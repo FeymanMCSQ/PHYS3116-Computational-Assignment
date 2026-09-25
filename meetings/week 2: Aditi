@@ -1,7 +1,7 @@
 Aditi Bishwa, week 2, 25/08/2026
 
 
-Part II:  Metallicity and Photometry 
+## Part II:  Metallicity and Photometry 
 
 Key to columns:
 ID =  Cluster identification
@@ -18,7 +18,7 @@ spt = Spectral type of the integrated cluster light
 ellip =  Projected ellipticity of isophotes, e = 1-(b/a)
 
 
-Research question: (not decided yet)
+## Research question: (not decided yet)
 taken from assessment brief
 q1) Consider if there are some globular clusters that stand out in the age-metallicity relation or that do not rotate with the bulk of other
 globular clusters. 
@@ -36,7 +36,7 @@ formation scenarios.
 
 (can't answer this until further research)
 
-For week 2:
+ ## For week 2:
 1. To start, i need to create a graph for all the metallicity, this will help me identify the clusters made, from the data. This graph will also 
 help me identify any clusters which could be unsual, or irregular. 
 2. After this I will create another graph to identify and find the cluster luminosity. I can compare the metallicity and the cluster luminosity.
