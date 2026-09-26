@@ -4,7 +4,8 @@
 - Start a joint python script for loading, checking and merging the datasets.
 - Commit both the code and the brief documentation found on github.
 # Datasets and Column Definitions
-## Harris Catalogue Part I(https://physics.mcmaster.ca/~harris/mwgc.dat)
+## Harris Catalogue Part I -  Identifications and Positional Data 
+(https://physics.mcmaster.ca/~harris/mwgc.dat)
 
 Key to columns:
 1. Cluster identification number
@@ -21,8 +22,7 @@ Key to columns:
 
 Note: 9-11 - in kiloparsecs, in a Sun-centered coordinate system
 
-## Harris Catalogue Part III
-            Part III:  Velocities and Structural Parameters
+## Harris Catalogue Part III - Velocities and Structural Parameters
 
 Key to columns:
 1. Cluster identification
