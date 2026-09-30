@@ -1,3 +1,7 @@
+Week 3 Meeting
+
+
+
 Attendance
 - Daniel
 - Safi
