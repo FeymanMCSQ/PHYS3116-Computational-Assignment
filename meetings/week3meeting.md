@@ -17,3 +17,7 @@ Daniel
 Aditi
 - Aditi identified what the assignment is, and what has to be measured for week 3. In week 3 I will measuring all the relevant data sets and find
 all relevant clusters in relation to our assignment.
+
+
+Next meeting
+Friday 9th oct: 11:30am
