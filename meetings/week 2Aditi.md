@@ -4,18 +4,18 @@ Aditi Bishwa, week 2, 25/08/2026
 ## Part II:  Metallicity and Photometry 
 
 Key to columns:
-ID =  Cluster identification
-[Fe/H] = Metallicity [Fe/H]
-wt = Weight of mean metallicity; essentially the number of independent [Fe/H]
+- ID =  Cluster identification
+- [Fe/H] = Metallicity [Fe/H]
+- wt = Weight of mean metallicity; essentially the number of independent [Fe/H]
 	measurements averaged together.  See bibliography for full description
-E(B-V) = Foreground reddening 
-V_HB = V magnitude level of the horizontal branch (or RR Lyraes)
-(m-M)V = Apparent visual distance modulus
-V_t  = Integrated V magnitude of the cluster
-M_V,t = Absolute visual magnitude (cluster luminosity),  M_V,t = V_t - (m-M)V
-(9-12)  U-B   B-V   V-R   V-I = Integrated color indices (uncorrected for reddening)
-spt = Spectral type of the integrated cluster light
-ellip =  Projected ellipticity of isophotes, e = 1-(b/a)
+- E(B-V) = Foreground reddening 
+- V_HB = V magnitude level of the horizontal branch (or RR Lyraes)
+- (m-M)V = Apparent visual distance modulus
+- V_t  = Integrated V magnitude of the cluster
+- M_V,t = Absolute visual magnitude (cluster luminosity),  M_V,t = V_t - (m-M)V
+- (9-12)  U-B   B-V   V-R   V-I = Integrated color indices (uncorrected for reddening)
+- spt = Spectral type of the integrated cluster light
+- ellip =  Projected ellipticity of isophotes, e = 1-(b/a)
 
 
 ## Research question: (not decided yet)
