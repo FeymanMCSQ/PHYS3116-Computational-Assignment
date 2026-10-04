@@ -2,7 +2,7 @@ import pandas as pd
 
 df = pd.read_csv("mwgc.dat", sep=r"\s+", comment="#")
 
-print(df)
+display(df)
 
 
 
