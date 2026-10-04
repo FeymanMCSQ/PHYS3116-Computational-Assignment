@@ -23,11 +23,11 @@ The columns mean the following for the Harris Part 1:
   - **Unit:** no unit
 
 - **RA**
-  - **Meaning:** Right Ascension, imagine a sky wrapping the earth around in a ball, the RA is equivalent to the latitude
+  - **Meaning:** Right Ascension, imagine a sky wrapping the earth around in a ball, the RA is equivalent to the longitude
   - **Unit:** hours minutes seconds
 
 - **DEC**
-  - **Meaning:** Equal to the longitude
+  - **Meaning:** Equal to the latitude
   - **Unit:** degrees, arcminutes arcseconds
 
 - **L**
@@ -38,7 +38,7 @@ The columns mean the following for the Harris Part 1:
   - **Meaning:** Galatic Latitude, angle above or below the Galactic plane
   - **Unit:** degrees
 
-- **R_SUN**
+- **R_Sun**
   - **Meaning:** 3d distance from sun to cluster
   - **Unit:** KPCs
 
@@ -51,11 +51,11 @@ The columns mean the following for the Harris Part 1:
   - **Unit:** KPCs
 
 - **Y**
-  - **Meaning:** Sun centred distance component pointing in direction of the centre
+  - **Meaning:** Sun centred distance component pointing in direction of Galactic rotation
   - **Unit:** KPCs
 
 - **Z**
-  - **Meaning:** above galactic disk
+  - **Meaning:** above or below galactic disk
   - **Unit:** KPCs
 
 Now, at an initial glance, the most likely relevant fields seem to be the following:
@@ -63,14 +63,14 @@ Now, at an initial glance, the most likely relevant fields seem to be the follow
 1. ID: essential for matching to the informaiton in the Harris Part III.
 2. L: Galactic longitude influences how we percieve the velocity pattern of the clusters movement,
    depending on where it is we might percieve it to be moving different in direction
-3. B: Shows how far above or below the cluster lies in the galactic plane, and it also affects how motion
+3. B: Shows the angle above or below the galactic plane, and it also affects how motion
    is projected on our line of sight
 4. X, Y, Z: Help us find position depending on location
 
 Secondary Relevant:
 
 1. R_gc: useful for comparing inner and outer clusters and seeing if dynamic behaviour changes with distance
-2. R_sun: useful for distance context
+2. R_Sun: useful for distance context
 
 Tertieray fields:
 
@@ -89,7 +89,7 @@ The Harris Part III columns are these:
 
 3. **v_r_e:** uncertainty in the measurement. Unit: km/s
 
-4. **v_LSR:** Another version of the cluster field toward or away from us. The sun is also kinda moving through the Milky. This movement affects the measurement. v_LSR kinda adjusts to like remove or mitigate the sun's effect.
+4. **v_LSR:** The cluster's toward-or-away speed compared with a local reference that follows the average movement near the Sun. The Sun has its own extra movement relative to that reference, and v_LSR adjusts for it.
 
    This makes it easy to compare it to other clusters. km/s.
 
@@ -142,8 +142,8 @@ Part I: Where is it?
 Part III: How does its movement appear from our position?
 
 For example, L and B tell us which direction to look in the Milky Way while X,Y, and Z help us place the
-cluster on a 3D map. Then v_LSR tells u whether that cluster is appearing to be moving away from us after
-we adjust for the sun's movement.
+cluster on a 3D map. Then v_LSR tells u whether that cluster is moving toward or away compared with
+the local reference near the Sun.
 
 like imagine being in a side of a circle and people walk around the circle, technically from your POV they could be moving away or towards you even if they are walking in the same circular path. v_LSR thus does not
 tell us how the cluster is behaving, we gotta consider where the cluster is as well.
@@ -172,7 +172,7 @@ There are two things to also keep in mind:
 
 ## Proposed Methodology
 
-1. Connect the two clusters using ID: This gives each cluster its location from Part I and its movement
+1. Connect the two Harris tables using ID: This gives each cluster its location from Part I and its movement
    measurement from Part III. Daniel is preparing the combined data and I will check that the columns I
    need match correctly
 
@@ -186,8 +186,8 @@ There are two things to also keep in mind:
 4. Describe how most clusters behave: look from a broad trend, if there is one. Do NOT assume in advance
    that they need to follow the same movement.
 
-5. Identify possible unusual clusters: we choose a clear rule for what counts as different than check
-   whether the different meets the uncertainty using v_r_e. Record why each was flagged.
+5. Identify possible unusual clusters: we choose a clear rule for how far a cluster must differ from the
+   broad trend, then check the uncertainty of its measured speed using v_r_e. Record why each was flagged.
 
 6. Compare my list with Aditis: See whether any cluster stands out in both movement and age-metallicity
 
