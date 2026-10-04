@@ -163,8 +163,44 @@ There are two things to also keep in mind:
 
 ## Research Questions
 
+1. How does a cluster measured movement change depending on where it is?
+2. WHich clusters stand out compared with clustes in similar locations
+3. Are those differences convincing once we check whether uncertain the measurements are?
+4. DO the clusters that stand out in movments also stand out in Aditi's age and metallicity work
+5. What can we reasonably say about where those clusters formed, and what extra measurements would
+   we need to be certain.
+
 ## Proposed Methodology
+
+1. Connect the two clusters using ID: This gives each cluster its location from Part I and its movement
+   measurement from Part III. Daniel is preparing the combined data and I will check that the columns I
+   need match correctly
+
+2. CHeck whether the clusters have usable measurements. Nate any misssing speeds and check for obvious
+   mistakes before making graphs.
+
+3. Make a first graph of v_LSR against L. This lets us see whether the measured movement changes as you
+   look in different directions around the milky way, We can also use B, Z or R_gc to see whether location
+   affects what u observe.
+
+4. Describe how most clusters behave: look from a broad trend, if there is one. Do NOT assume in advance
+   that they need to follow the same movement.
+
+5. Identify possible unusual clusters: we choose a clear rule for what counts as different than check
+   whether the different meets the uncertainty using v_r_e. Record why each was flagged.
+
+6. Compare my list with Aditis: See whether any cluster stands out in both movement and age-metallicity
+
+7. Explain the limits. THese speeds show only movement toward or away along our viewing direction. They
+   cannot, by themselves give us a clusters full path or prove where it formed.
 
 ## Dependencies and Team Coordination
 
-## Tasks before Week 3
+Daniel: He is combining the catalogues. I need the cluster ID, position, movement columns matched correctly. I will start working on Harris Part I and III while he works on the full combined file. When
+his file is ready, check a few cluster rows against the original CSVs.
+
+Aditi: SHe is looking at clusters age and metallicity. Once we have canditate lists, we compare the IDs.
+
+Me: share my graphs, my flagged clustes, and short reason for each choice. Also tell the team which clusters had missing or uncrertain measurements.
+
+Whole team: Agree on what "unusual" means and how cautiously to describe an accreted cluster.
