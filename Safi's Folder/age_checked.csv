@@ -1,0 +1,117 @@
+ID,source,Age,FeH,Age_err,result
+NGC 104,Krause,12.8,-0.76,,not flagged
+NGC 288,Krause,12.2,-1.32,,not flagged
+NGC 362,Krause,10.0,-1.26,,not flagged
+NGC 1261,Krause,10.24,-1.08,,not flagged
+NGC 1851,Krause,7.64,-1.13,,flagged younger
+NGC 1904,Krause,12.0,-1.58,,not flagged
+NGC 2298,Krause,12.4,-1.98,,not flagged
+NGC 2808,Krause,11.2,-1.18,,not flagged
+NGC 3201,Krause,11.1,-1.51,,not flagged
+NGC 4590,Krause,12.7,-2.27,,not flagged
+NGC 4833,Krause,12.5,-1.71,,not flagged
+NGC 5024,Krause,12.7,-1.86,,not flagged
+NGC 5053,Krause,12.3,-1.98,,not flagged
+NGC 5272,Krause,11.4,-1.34,,not flagged
+NGC 5286,Krause,12.5,-1.41,,not flagged
+NGC 5466,Krause,13.6,-2.2,,not flagged
+NGC 5897,Krause,12.3,-1.73,,not flagged
+NGC 5904,Krause,11.5,-1.33,,not flagged
+NGC 5927,Krause,12.7,-0.64,,not flagged
+NGC 5986,Krause,12.2,-1.35,,not flagged
+NGC 6093,Krause,12.5,-1.47,,not flagged
+NGC 6101,Krause,12.5,-1.76,,not flagged
+NGC 6121,Krause,13.1,-1.98,,not flagged
+NGC 6139,Krause,11.6,-1.58,,not flagged
+NGC 6144,Krause,13.8,-1.56,,not flagged
+NGC 6171,Krause,13.4,-1.03,,flagged older
+NGC 6205,Krause,11.7,-1.33,,not flagged
+NGC 6218,Krause,13.4,-1.43,,not flagged
+NGC 6254,Krause,12.4,-1.57,,not flagged
+NGC 6304,Krause,13.6,-0.66,,not flagged
+NGC 6341,Krause,13.2,-2.1,,not flagged
+NGC 6352,Krause,12.7,-0.7,,not flagged
+NGC 6362,Krause,13.6,-0.99,,not flagged
+NGC 6366,Krause,13.3,-0.73,,not flagged
+NGC 6388,Krause,11.7,-0.45,,not flagged
+NGC 6397,Krause,13.4,-1.99,,not flagged
+NGC 6441,Krause,11.2,-0.44,,not enough to compare
+NGC 6496,Krause,12.4,-0.7,,not flagged
+NGC 6535,Krause,10.5,-1.51,,not flagged
+NGC 6541,Krause,12.9,-1.53,,not flagged
+NGC 6584,Krause,11.3,-1.3,,not flagged
+NGC 6624,Krause,12.5,-0.7,,not flagged
+NGC 6637,Krause,13.1,-0.78,,not flagged
+NGC 6652,Krause,12.0,-0.97,,not flagged
+NGC 6656,Krause,12.7,-1.49,,not flagged
+NGC 6681,Krause,12.8,-1.35,,not flagged
+NGC 6715,Krause,10.8,-1.25,,not flagged
+NGC 6717,Krause,13.2,-1.09,,not flagged
+NGC 6723,Krause,13.1,-0.96,,not flagged
+NGC 6752,Krause,13.8,-1.55,,not flagged
+NGC 6779,Krause,13.7,-2.0,,not flagged
+NGC 6809,Krause,13.8,-1.93,,not flagged
+NGC 6838,Krause,12.7,-0.82,,not flagged
+NGC 6934,Krause,11.1,-1.32,,not flagged
+NGC 6981,Krause,10.9,-1.21,,not flagged
+NGC 7078,Krause,13.6,-2.33,,not flagged
+NGC 7089,Krause,11.8,-1.31,,not flagged
+NGC 7099,Krause,14.6,-2.33,,not flagged
+Rup 106,Krause,12.0,-1.5,,not flagged
+Terzan 7,Krause,7.4,-0.12,,not enough to compare
+Pal 12,Krause,8.6,-0.81,,flagged younger
+NGC 104,van den Berg,11.75,-0.76,0.25,not flagged
+NGC 288,van den Berg,11.5,-1.32,0.38,not flagged
+NGC 362,van den Berg,10.75,-1.3,0.25,not flagged
+NGC 1261,van den Berg,10.75,-1.27,0.25,not flagged
+NGC 1851,van den Berg,11.0,-1.18,0.25,not flagged
+NGC 2808,van den Berg,11.0,-1.18,0.38,not flagged
+NGC 3201,van den Berg,11.5,-1.51,0.38,not flagged
+NGC 4147,van den Berg,12.25,-1.78,0.25,not flagged
+NGC 4590,van den Berg,12.0,-2.27,0.25,not flagged
+NGC 4833,van den Berg,12.5,-1.89,0.5,not flagged
+NGC 5024,van den Berg,12.25,-2.06,0.25,not flagged
+NGC 5053,van den Berg,12.25,-2.3,0.38,not flagged
+NGC 5272,van den Berg,11.75,-1.5,0.25,not flagged
+NGC 5286,van den Berg,12.5,-1.7,0.38,not flagged
+NGC 5466,van den Berg,12.5,-2.31,0.25,not flagged
+NGC 5904,van den Berg,11.5,-1.33,0.25,not flagged
+NGC 5927,van den Berg,10.75,-0.29,0.38,not enough to compare
+NGC 5986,van den Berg,12.25,-1.63,0.75,not flagged
+NGC 6101,van den Berg,12.25,-1.98,0.5,not flagged
+NGC 6121,van den Berg,11.5,-1.18,0.38,not flagged
+NGC 6144,van den Berg,12.75,-1.82,0.5,not flagged
+NGC 6171,van den Berg,12.0,-1.03,0.75,not flagged
+NGC 6205,van den Berg,12.0,-1.58,0.38,not flagged
+NGC 6218,van den Berg,13.0,-1.33,0.5,not flagged
+NGC 6254,van den Berg,11.75,-1.57,0.38,not flagged
+NGC 6304,van den Berg,11.25,-0.37,0.38,not flagged
+NGC 6341,van den Berg,12.75,-2.35,0.25,not flagged
+NGC 6352,van den Berg,10.75,-0.62,0.38,not flagged
+NGC 6362,van den Berg,12.5,-1.07,0.25,not flagged
+NGC 6366,van den Berg,11.0,-0.59,0.5,not flagged
+NGC 6397,van den Berg,13.0,-1.99,0.25,not flagged
+NGC 6496,van den Berg,10.75,-0.46,0.38,not flagged
+NGC 6535,van den Berg,12.75,-1.79,0.5,not flagged
+NGC 6541,van den Berg,12.5,-1.82,0.5,not flagged
+NGC 6584,van den Berg,11.75,-1.5,0.25,not flagged
+NGC 6624,van den Berg,11.25,-0.42,0.5,not flagged
+NGC 6637,van den Berg,11.0,-0.59,0.38,not flagged
+NGC 6652,van den Berg,11.25,-0.76,0.25,not flagged
+NGC 6656,van den Berg,12.5,-1.7,0.5,not flagged
+NGC 6681,van den Berg,12.75,-1.62,0.38,not flagged
+NGC 6715,van den Berg,11.75,-1.44,0.5,not flagged
+NGC 6717,van den Berg,12.5,-1.26,0.5,not flagged
+NGC 6723,van den Berg,12.5,-1.1,0.25,not flagged
+NGC 6752,van den Berg,12.5,-1.55,0.25,not flagged
+NGC 6779,van den Berg,12.75,-2.0,0.5,not flagged
+NGC 6809,van den Berg,13.0,-1.93,0.25,not flagged
+NGC 6838,van den Berg,11.0,-0.82,0.38,not flagged
+NGC 6934,van den Berg,11.75,-1.56,0.25,not flagged
+NGC 6981,van den Berg,11.5,-1.48,0.25,not flagged
+NGC 7078,van den Berg,12.75,-2.33,0.25,not flagged
+NGC 7089,van den Berg,11.75,-1.66,0.25,not flagged
+NGC 7099,van den Berg,13.0,-2.33,0.25,not flagged
+Arp 2,van den Berg,12.0,-1.74,0.38,not flagged
+Pal 12,van den Berg,9.0,-0.81,0.38,flagged younger
+Terzan 8,van den Berg,13.0,-2.34,0.38,not flagged
