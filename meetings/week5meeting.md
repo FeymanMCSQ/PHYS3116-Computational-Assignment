@@ -6,6 +6,8 @@ What we have done
 Aditi:
 
 Daniel:
+1. Finished merging the data together into one table through matching NGC numbers
+2. Generated graphs for visualisation and confirmation of merge
 
 Safi:
 
@@ -23,7 +25,7 @@ Safi:
 To do:
 Aditi:
 
-Daniel:
+Daniel:Validating the final clusters, show unmatched IDs and duplicate matches, justify why certain data is used
 
 Safi: adding comments and optimization explaining ambigious cde blocks and justifying my decisions as to why I
 made them.
