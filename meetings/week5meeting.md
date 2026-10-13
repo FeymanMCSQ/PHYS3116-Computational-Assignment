@@ -1,4 +1,4 @@
-Meeting 4, 11.30am 9/10/2026
+Meeting 4, 11.30am 13/10/2026
 Attendees: Aditi, Daniel, Safi
 
 What we have done
@@ -28,4 +28,4 @@ Daniel:
 Safi: adding comments and optimization explaining ambigious cde blocks and justifying my decisions as to why I
 made them.
 
-Next meeting: 2.30pm Tuesday 13/10/2026
+Next meeting: 2.30pm Tuesday 20/10/2026
