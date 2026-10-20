@@ -11,7 +11,7 @@ Safi: added comments and optimization explaining ambigious cde blocks and justif
 made them.
 
 To do:
-Aditi:
+Aditi: making the video and adding notes to the video.Start and finish my one page report for my video.
 
 Safi: making video and writing my one page report.
 
