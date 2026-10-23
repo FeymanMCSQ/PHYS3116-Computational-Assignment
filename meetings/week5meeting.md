@@ -5,6 +5,7 @@ What we have done
 
 Aditi:
 
+
 Daniel:
 1. Finished merging the data together into one table through matching NGC numbers
 2. Generated graphs for visualisation and confirmation of merge
@@ -23,7 +24,7 @@ Safi:
 4. reran and commited the notebooks, result CSVs and week 4 documentation
 
 To do:
-Aditi:
+Aditi: Observing data from the plots i have created on jupyter. Finding the outliers and all relevant clusters. Analysing the data and making my final conclusions from the plots.
 
 Daniel:Validating the final clusters, show unmatched IDs and duplicate matches, justify why certain data is used
 
