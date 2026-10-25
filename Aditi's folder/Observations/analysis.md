@@ -38,3 +38,11 @@ The distribution has a tail towards fainter magnitudes. A smaller number of clus
 
 Ko 2 is the faintest cluster in the table, it has an absolute magnitude of -0.35 most other clusters are usually
 much brighter than that.
+
+## Age and metallicity follow-up
+
+We found 55 van den Berg and 61 Krause age-metallicity measurements, and we kept the sources separate. Then We compared each cluster with at least four others within 0.25 in [Fe/H], and flagged an age difference of at least 2 billion years.
+
+Pal 12 was basically flagged as younger by both sources. Krause also flagged NGC 1851 as younger and NGC 6171 as older. Pal 12 and NGC 1851 remained flagged in Krause when the settings changed but the other one, NGC 6171 was less steady. Van den Berg gives NGC 1851 a different age so that creates some uncertainty too.
+
+These are candidates to compare with movement, not actually proof of them being from a different galaxy. The holistic notebook compares these age flags with the movement results.
