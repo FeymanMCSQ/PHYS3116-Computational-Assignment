@@ -13,8 +13,8 @@ made them.
 To do:
 Aditi: making the video and adding notes to the video.Start and finish my one page report for my video.
 
-Safi: making video and writing my one page report.
+Safi: making video and writing my one page report and adding the age metallicity analysis for the next section.
 
-Daniel: making the video and writing my one page report. 
+Daniel: making the video and writing my one page report.
 
 Next meeting: N/A
