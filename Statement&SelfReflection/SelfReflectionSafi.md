@@ -49,4 +49,8 @@ fallback are as important as making the initial plan. Next time, I
 would ask sooner in meetings what help someone needs when their work
 stalls.
 
-(For more reading please refer to my reflection in my folder)
+(For more reading please refer to my reflection in my folder on github)
+
+https://github.com/FeymanMCSQ/PHYS3116-Computational-Assignment
+
+https://github.com/FeymanMCSQ
