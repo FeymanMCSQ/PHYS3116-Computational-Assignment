@@ -1,11 +1,10 @@
-#Aditi
+# Aditi
 
-##Statement
+## Statement
 
 For this assignment my role involved finding all involved clusters in the Milky Way Globular Clusters. I have developed a widened understanding of how astronomical data can be used to investigate the properties of the Milky Way globular clusters of Harris Part II. In this assignment I had to learn how to use Jupyter notebook and Python to process the catalogue data, create graphs and analyse the relationships between metallicity, colour and absolute magnitude. 
 
 One of the main challenges I have faced was being able to work with the data, and creating the graphs on Jupyter. I had to learn how to read the graphs and patterns, and what they meant. I also had to learn how to compare the different graphs to be able to understand the relationship between astronomical properties, to be able to come to conclusions. 
 
-##Self Reflection
-
+## Self-Reflection
 If I were to do this assignment again, I would definitely spend a greater time in researching the expected conclusions and relationships before being able to plot the data. This could be involving the correlation coefficients between metallicity, colour and absolute magnitude, to support my conclusions. I would also learn more codes in order to represent my data more clearly, and improve my graphs such as making the labels more clear, more sophisticated statements and explanations. I would be able to distiguish with stronger or weaker relationships and have a more critical approach to analyse the scientific data. In conclusion, overall this assignment widening my understanding in data analysis, scientific reasoning and problem solving skills. I am now more confident in also using Python for coding and Kupyter Notebook to investigate and create astronomical data.
